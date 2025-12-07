@@ -155,33 +155,46 @@ Alimenter → Distribuer → Convertir/Transmettre → Agir
 
 **1. Quel élément permet de mesurer le niveau d'eau ?**
 - A. Le clapet
-- B. Le capteur ✅
+- B. Le capteur 
 - C. Le relais électrique
 - D. L'automate
+
+
+- B. Le capteur ✅
 
 **2. Le clapet est un élément…**
 - A. d'acquisition
 - B. d'affichage
-- C. d'action ✅
+- C. d'action 
 - D. d'alimentation
+
+- C. d'action ✅
 
 **3. Quelle énergie alimente le système ?**
 - A. Thermique
-- B. Électrique ✅
+- B. Électrique 
 - C. Solaire
 - D. Chimique
+
+- B. Électrique ✅
 
 **4. L'écran de visualisation sert à…**
 - A. Décider
 - B. Agir
-- C. Afficher des informations ✅
+- C. Afficher des informations 
 - D. Convertir l'énergie
+
+- C. Afficher des informations ✅
+
 
 **5. Si le niveau d'eau est normal, le voyant doit être…**
 - A. Rouge
 - B. Orange
 - C. Bleu
+- D. Vert 
+
 - D. Vert ✅
+
 
 ---
 
@@ -189,33 +202,45 @@ Alimenter → Distribuer → Convertir/Transmettre → Agir
 
 **6. Dans la chaîne d'information, l'automate réalise la fonction :**
 - A. Acquérir
-- B. Traiter ✅
+- B. Traiter 
 - C. Convertir
 - D. Afficher
+
+- B. Traiter ✅
+
 
 **7. Dans la chaîne d'énergie, quel élément transforme l'énergie électrique en mouvement ?**
 - A. L'écran
 - B. Le capteur
-- C. L'ensemble hydraulique ✅
+- C. L'ensemble hydraulique 
 - D. Le relais de distribution
 
+- C. L'ensemble hydraulique ✅
+
+
 **8. Quel élément distribue l'électricité vers les actionneurs ?**
-- A. Le relais électrique ✅
+- A. Le relais électrique 
 - B. L'écran
 - C. Le capteur
 - D. Le clapet
 
+- A. Le relais électrique ✅
+
 **9. Pour un niveau d'eau haut, le clapet va en position…**
 - A. 1
 - B. 2
-- C. 3 ✅
+- C. 3 
 - D. 0
+
+- C. 3 ✅
 
 **10. Le voyant rouge correspond à un niveau…**
 - A. Normal
-- B. Haut ✅
+- B. Haut 
 - C. Bas
 - D. Très bas
+
+- B. Haut ✅
 
 ---
 
@@ -224,62 +249,87 @@ Alimenter → Distribuer → Convertir/Transmettre → Agir
 **11. Quelle est la bonne séquence de la chaîne d'information ?**
 - A. Traiter → Acquérir → Communiquer
 - B. Communiquer → Traiter → Acquérir
-- C. Acquérir → Traiter → Communiquer ✅
+- C. Acquérir → Traiter → Communiquer 
 - D. Acquérir → Communiquer → Traiter
+
+- C. Acquérir → Traiter → Communiquer ✅
+
 
 **12. Quelle est la bonne séquence de la chaîne d'énergie ?**
 - A. Distribuer → Alimenter → Convertir → Agir
-- B. Alimenter → Distribuer → Convertir/Transmettre → Agir ✅
+- B. Alimenter → Distribuer → Convertir/Transmettre → Agir 
 - C. Convertir → Alimenter → Distribuer → Agir
 - D. Alimenter → Convertir → Distribuer → Agir
 
+- B. Alimenter → Distribuer → Convertir/Transmettre → Agir ✅
+
+
 **13. Le système hydraulique appartient à la fonction :**
 - A. Distribuer l'énergie
-- B. Convertir / transmettre l'énergie ✅
+- B. Convertir / transmettre l'énergie 
 - C. Acquérir l'information
 - D. Afficher les données
+
+- B. Convertir / transmettre l'énergie ✅
+
 
 **14. Si le niveau d'eau est bas, le voyant doit être :**
 - A. Vert
 - B. Rouge
-- C. Orange ✅
+- C. Orange 
 - D. Bleu
 
+- C. Orange ✅
+
+
 **15. Si le niveau d'eau est bas, le clapet va en position :**
-- A. 1 ✅
+- A. 1 
 - B. 2
 - C. 3
 - D. 4
 
+- A. 1 ✅
+
 **16. Dans un système automatisé, un capteur transforme :**
-- A. Une énergie en information ✅
+- A. Une énergie en information 
 - B. Une information en énergie
 - C. Une action en décision
 - D. L'électricité en mouvement
 
+- A. Une énergie en information ✅
+
 **17. Quand l'automate reçoit un niveau haut, il envoie :**
-- A. Un ordre d'ouvrir plus le clapet ✅
+- A. Un ordre d'ouvrir plus le clapet 
 - B. Un ordre de fermer complètement
 - C. Un ordre d'allumer le voyant vert
 - D. Un ordre d'éteindre le système
 
+- A. Un ordre d'ouvrir plus le clapet ✅
+
 **18. Quel est le rôle du relais électrique de distribution ?**
 - A. Convertir l'énergie électrique en mouvement
 - B. Recevoir les informations du capteur
-- C. Acheminer l'électricité vers l'ensemble hydraulique ✅
+- C. Acheminer l'électricité vers l'ensemble hydraulique 
 - D. Mesurer le niveau d'eau
+
+- C. Acheminer l'électricité vers l'ensemble hydraulique ✅
+
 
 **19. Dans le logigramme, après "niveau normal ?", si la réponse est NON, on vérifie :**
 - A. Le niveau bas
-- B. Le niveau haut ✅
+- B. Le niveau haut 
 - C. La position du clapet
 - D. Le voyant
 
+- B. Le niveau haut ✅
+
 **20. Quel serait un danger si le système hydraulique tombe en panne et que l'eau monte ?**
 - A. Le voyant vert reste allumé
-- B. Le clapet reste en position 1 et l'eau déborde ✅
+- B. Le clapet reste en position 1 et l'eau déborde 
 - C. Le système affiche des données incorrectes
 - D. L'écran s'éteint seulement
+
+- B. Le clapet reste en position 1 et l'eau déborde ✅
 
 ---
 
